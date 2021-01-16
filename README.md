@@ -6,4 +6,4 @@
 * for further information on the project and for testing all sketches, please consider visiting: ֍ https://beyond-interface.info ֍
 * for beginners who want to experiment with the code: you can either clone this repository and set it up to run on your local machine (e.g. with node.js), or (much easier and more beginner friendly!) have a look at ֍ https://editor.p5js.org/piaoyapia/collections ֍ (--> still work in progress). You can change the code and try to make your own experiments in the p5.js-editor. p5.js is a software javascript software library which makes it very easy for designers to get into coding.
 
-* this repository is part of the dissertation 'beyond interface' by Pia Scharf at Hochschule für Gestaltung Offenbach am Main.
+* this repository is part of the dissertation 'beyond interface' by <a href="https://de.linkedin.com/in/pia-scharf-b2a5b0b7">Pia Scharf</a> at Hochschule für Gestaltung Offenbach am Main.
