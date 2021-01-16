@@ -1,7 +1,7 @@
 ![Alt text](/beyond-interface.png?raw=true "Optional Title")
 
 ## demos and sprint projects on user interface design
-#...and the use of machine learning in the design process
+... and the use of machine learning in the design process
 
 * this repository is a collection of interactive sketches on the basics of user interface design.
 * The first demos are only animations of elements in the grid. Subsequent sketches use image classification or other machine learning methods as user input - in between there are demos that focus on "common" inputs like mouse or touch input.
