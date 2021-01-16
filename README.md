@@ -1,4 +1,4 @@
-![Alt text](/beyond-interface.png?raw=true "Optional Title")
+<!-- ![Alt text](/beyond-interface.png?raw=true "Optional Title") -->
 
 ## demos and sprint projects on user interface design
 ... and the use of machine learning in the design process
