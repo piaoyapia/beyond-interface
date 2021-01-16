@@ -1,4 +1,4 @@
-# beyond interface ֍
+# ֍ beyond interface ֍
 ## demos and sprint projects on user interface design and the use of machine learning in the design process.
 
 * this repository is a collection of interactive sketches on the basics of user interface design.
